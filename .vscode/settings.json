@@ -1,6 +1,11 @@
 {
     "files.associations": {
         "*.ejs": "html",
-        "cassert": "cpp"
+        "cassert": "cpp",
+        "cstdlib": "cpp",
+        "array": "cpp",
+        "string_view": "cpp",
+        "initializer_list": "cpp",
+        "utility": "cpp"
     }
 }

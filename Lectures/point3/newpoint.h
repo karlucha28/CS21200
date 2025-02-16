@@ -63,7 +63,7 @@ namespace main_savitch_2B
         // CONSTRUCTOR
         point(double initial_x = 0.0, double initial_y = 0.0);
         // MODIFICATION MEMBER FUNCTIONS
-	void set(double x_init, double y_init);
+	    void set(double x_init, double y_init);
         void shift(double x_amount, double y_amount);
         void rotate90( );
         // CONSTANT MEMBER FUNCTIONS
